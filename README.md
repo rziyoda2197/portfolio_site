@@ -36,7 +36,7 @@ Portfolio sayt HTML, CSS va JavaScript texnologiyalaridan foydalangan holda yara
 
 ## Aloqa ma'lumotlari
 
-- **GitHub**: [msevinch2197](https://github.com/msevinch2197)
+- **GitHub**: [rziyoda2197](https://github.com/msevinch2197)
 - **Telegram**: @ziyoda_dev
 - **Email**: ziyoda.reyimboyeva@gmail.com
 - **Manzil**: Xorazm viloyati, Tuproqqala tumani
